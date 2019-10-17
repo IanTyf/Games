@@ -1,4 +1,4 @@
-This is my FIRST EVER big project! And it's still growing bigger and bigger :)
+This is my FIRST EVER big project! I've been working on it for months, and it's still growing bigger and bigger :)
 
 Planned release date: End of 2019.
 
