@@ -2,6 +2,8 @@ Start With White is my submission for Ludum Dare GameJam (Compo) 45.
 
 Source code is provided here in C#.
 
+Link - https://iantyf.itch.io/start-with-white
+
 
 --2019/10/17--
 
