@@ -1,4 +1,4 @@
-This is my project for Summer 2019.
+This is my personal project for Summer 2019.
 
 Unfortunately, after working on it every day for about 2 months, I realized how big of a project I've created, 
 and I had to leave it aside for a while. I love the concept and the design and because of that, I chose not to 
